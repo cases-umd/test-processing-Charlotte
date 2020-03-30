@@ -1,0 +1,40 @@
+Black	Aaron			Amelia				domestic			506 s Tryon 
+White	Abbey			Simeon	A	Mary	A	superintendent construction	General Fire Ext Co	House	104 Central av 
+White	Abbott		Miss	Margaret						House	1804 s Boulevard 
+White	Abee			Junius	A			telegraph operator	Southern Railway	Boards	507 n Graham 
+White	Abel			Abram		Fannie		traveling salesman		House	506 w 10t
+Black	Abel			Belle						House	14 Boundary al 
+Black	Abel			George				laborer		House	12 Boundary al 
+White	Abernathy			C	L					House	Lawyer's rd 
+White	Abernathy			Clement	D	Cora		employment	Charlotte Lea Belt Co	House	1117 s Tryon 
+White	Abernathy		Mrs	Cora				boarding		House	1117 s Tryon
+White	Abernathy			David	M	Enola				House	1310 e 4text 
+White	Abernathy		Miss	Elizabeth						House	430 Mint 
+Black	Abernathy			Hannah						House	4 Bellinger 
+White	Abernathy			John	W	Nannie		carpenter		House	Sunnyside 
+Black	Abernathy			Joseph				laborer		House	422 w Hill 
+Black	Abernathy			Lewis		Annie		carpenter		House	422 w Hill 
+White	Abernethy		Miss	Connie				stenographer	Burwell & Dunn Co	House	414 Templeton av 
+White	Abernethy			Glenn	E			salesman	Burwell & Dunn Co	House	409 w 11th
+White	Abernethy		Miss	Gertrude				fitter	Little-Long Co	House	306 w 7th
+White	Abernethy			Lee	J	Ida		painter	h 810 n Brevard 	House	Seversville 
+White	Abernethy	Dr		J	S					House	Beatty's Ford rd 
+White	Abernethy			James	F	Alice		blacksmith	Trade ext	House	Seversville 
+White	Abernethy		Miss	Lillian				saleslady	Efird's Dept Store	House	Seversville 
+White	Abernethy		wid (Jas C)	Margaret	K					House	3 e 1st 
+White	Abernethy		Miss	Mildred						Rooms	603 n Davidson 
+White	Abernethy		Miss	Nettie	I			bookkeeper	Pound & Moore Co	House	311 n College 
+White	Abernethy			Thomas	J	Lucy		employment	City	House	414 Templeton av 
+White	Abernethy			Leslie	W			machinist	W S Abernethy	House	409 w 11th
+White	Abernethy			William	S	Mamie		automobile representative	29 w 4th	House	409 w 11th
+White	Abraham			William		Lula				House	516 s College 
+Black	Adanis			Anna				teacher		House	1021 s Church
+Black	Adams			Belle				maid	Realty Bldg	House	419 w 2d 
+Black	Adams			Berry	A	Edith		porter	W S Cramer	House	Seversville 
+Black	Adams			Bessie				cook			247 e Trade 
+White	Adams		Miss	Beulah						House	419 Elizabeth av 
+White	Adams			Compton		Cora		mill head		House	Elizabeth Mills 
+White	Adams		Miss	Dorothy				stenographer	Oconee Mills Co	Rooms	YWCA 
+Black	Adams			Edward		Mittie		driver	Rhyne Bros	House	305 w Palmer 
+White	Adams			George				tailor	Henry Miller Jr	Boards	15 & Church
+Black	Adams			Henry		Dicie		laborer		House	308 Middle 

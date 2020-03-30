@@ -1,0 +1,41 @@
+White	Adams			Henry	L	Fannie	S	route agent	Southern Railway Co	House	327 n Tryon 
+White	Adams			James		Gertrude		manager		House	419 Elizabeth av 
+Black	Adams			Jane				teacher		House	1021 s Church
+Black	Adams			John				laborer		House	1031 s Church
+White	Adams			John	J			president	Adams G & P Co and Char Pepsi-Cola Co	House	309 e 6th
+White	Adams			John	W	Cora		conductor	S A L Railway	House	21st nr Caldwell 
+Black	Adams			Joseph		Violet		cooper		House	1011 s Church
+White	Adams	Rev		Joseph	Q	Leslie				House	1509 s Boulevard 
+White	Adams		Miss	Julia	M					House	707 n Church
+Black	Adams			Kate				laundress		House	Groveton 
+White	Adams			Lafayette	N			clerk	Southern Railway	House	327 n Tryon 
+White	Adams			Lawrence	A			salesman	B S Moore & Co	Rooms	405 s Tryon 
+White	Adams			Laurie	A	Margaret	N	mill head		House	ElizabetMills 
+Black	Adams			Leland				porter	J P Stowe & Co	House	403 s Myers 
+Black	Adams			Lizzie						House	309 1/2 w Morehead 
+White	Adams		Miss	Lula				clerk	Belk Bros	Rooms	Y W C A 
+White	Adams		wid (Geo O)	Grace	M					House	601 n College 
+White	Adams			Luther	M	Mamie				House	Groveton 
+Black	Adams			Major				waiter	Buford Hotel 		
+Black	Adams			Mattie						House	719 n Graham ext 
+White	Adams		Miss	Pattie	V			stenographer		Boards	708 n Caldwell 
+Black	Adams			Reuben		Belle		laborer	Y & B Co	House	419 w 2d 
+Black	Adams			Rosa						House	714 s Caldwell 
+Black	Adams			Rufus				laborer		House	Greenville 
+Black	Adams			Rufus				driver	Stand I & F Co	House	Ross Town 
+White	Adams		Miss	Salie	H			assistant	Carnegie Library	House	707 n Church
+Black	Adams			Violet				servant			508 w Trade 
+White	Adams			Wheeler	F	Mamie		moulder		House	303 s Cedar 
+White	Adams			William	E				The Chronicle	Rooms	300 1/2 s Church
+White	Adcock			John	F			mill worker		House	916 Calvine av 
+White	Adcock		wid (Jas M)	Millie	M					House	916 Calvine av 
+White	Adelsheimer			Henry	S	Lizzie		mill worker		House	1216 Louise av 
+Black	Adkins			King				laborer			600 s Myers 
+White	Adkins Walter D (Leona E)			Walter	D	Leona	E	lineman		House	(r) 305 e 13th
+Black	Agers			Nancy				cook		House	206 Wilson 
+Black	Agers			Sallie				laundress		House	420 Jackson 
+White	Ahaus			Herman		Frances	E	tailor	203 w 4th	House	204 s Church
+White	Aikel			Joseph				confectioner	317 e Trade	Rooms	225 w Trade 
+White	Aiken			George	W M	Barbara		superintendent	Queen City M & G Wks	House	1120 s Caldwell 
+White	Aiken			Henry						Rooms	9 e 3d 
+Black	Aiken			Walter		Ella		laborer		House	600 e 2d 

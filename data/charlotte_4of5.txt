@@ -1,0 +1,52 @@
+Black	Aiken			William		Ella		driver	W I Henderson Gro Co	House	528 e 8th
+White	Akers			Joseph	J			chief clerk superintendent	Southern Railway	House	908 s Tryon 
+White	Albea			John	C			pressman	News Ptg Co	House	310 s McDowell 
+White	Albea		Miss	Lottie				clerk	Floyd L Liles Co	House	10 w 11th
+White	Albea		wid (J F)	Emma	S					House	310 s McDowell 
+White	Albrecht		wid (Mathias)	Gesha						House	402 Elizabeth av 
+White	Albright			Fay	L			clerk		House	15 s Caldwell 
+White	Albright			Hal	C			clerk	Post Office	House	15 s Caldwell 
+White	Albright			Judson	D	Belle	C	officer	US Internal Revenue	House	15 s Caldwell 
+White	Alderman		Miss	Elizabeth				nurse	Charlotte Sanatorium	Rooms	12 w 7th
+White	Aldred			Curtis	M	Victoria		machinist		House	Seversville 
+White	Aldred			James	A	Mattie		clerk		House	Seversville 
+White	Aldred	Rev		William	L	Marian		evangelist		House	Seversville 
+White	Aldridge		wid (Wm A)	Millie	S					House	Harrill st Belmont Park 
+White	Alexain			Nicholas				employment	Met Café	Rooms	26 n Tryon 
+Black	Alexander			Adelaide						House	910 (909) e 1st 
+Black	Alexander			Adeline						House	Lutheran st 
+White	Alexander			Albert	W	Alice		foreman	Charlotte Cordage Co	House	621 e 5t
+Black	Alexander			Alfred		Willie		driver		House	1016 e 3d 
+Black	Alexander			Allen		Lizzie		laborer		House	6 10th st al 
+Black	Alexander			Alvey				laborer		House	Lutheran st 
+Black	Alexander			Andrew		Bessie		grocer	15 1/2 e Boundary	House	514 e Stonewall 
+Black	Alexander			Andrew	W					Rooms	415 n Myers 
+White	Alexander		Miss	Annie				stenographer	C M Stiefif	House	610 n Graham ext 
+White	Alexander		Miss	Annie	L			physician	410 n Tryon	House	610 n Graham ext 
+White	Alexander			Arnold	E	Alice		laundryman		House	1424 e 5th
+Black	Alexander			Bernard				porter	Young's Steam Baking Co 		
+Black	Alexander			Bessie						House	1006 e 1st 
+White	Alexander			Blanche				madam		House	17 Spring 
+White	Alexander		Miss	Blandina				millliner	J B Ivey Co	House	610 n Graham ext 
+Black	Alexander			Burdette				porter	Colonial Club 		
+White	Alexander			C	P					House	Providence rd 
+Black	Alexander			Calvin		Emeline		laborer		House	213 1/2 w 1st 
+White	Alexander			Carl	L			clerk		House	200 e Oak 
+Black	Alexander			Carrie						House	Gaither's al 
+Black	Alexander			Carson				chauffeur	J E S Davidson	House	209 s Middle 
+Black	Alexander			Charles				laborer		House	410 n A 
+White	Alexander			Charles	F	Mary		clerk	Post Office	House	308 e Worthington av 
+White	Alexander			Charles	L	Sue		dentist	913-918 Realty Bldg	House	900 s Tryon 
+White	Alexander			Charles	Y			teacher	King's Bus College	Rooms	305 s Church
+White	Alexander			Clarence	W			employment	J M Porter	House	1116 s Tryon 
+White	Alexander			Clyde	C			painter		House	810 n Brevard 
+Black	Alexander			Daniel		Etta		laborer		House	527 e 8th
+Black	Alexander			Decatur	C	Alta		porter	Colonial Club	House	515 e 1st 
+White	Alexander		Miss	Edna				nurse	St Peters Hospital	Rooms	515 e 1st 
+Black	Alexander			Edward		Louvenia		laborer		House	1012 e Stonewall 
+White	Alexander		Miss	Eleanor						House	900 s Tryon 
+Black	Alexander			Eli		Jennie		grocer	Oil Town	House	900 s Tryon 
+Black	Alexander			Elizabeth				laundress		House	414 s College 
+Black	Alexander			Ellen						House	606 s McDowell 
+White	Alexander		wid (Wm S)	Emma	V					House	610 n Graham ext 
+Black	Alexander			Ephraim		Alice		driver	Coles & Smith	House	Stonewall bet A & B 
