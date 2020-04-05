@@ -1,5 +1,5 @@
-# bdarchives-nlp
-Scripts using NLP for processing born-digital archival collections
+# Overview
+Scripts using text processing for OCR archival collections
 
 
 # Running Notebooks
